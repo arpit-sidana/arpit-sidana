@@ -2,7 +2,7 @@
 
 I build thoughtful products that make complex systems easier to understand and everyday decisions easier to make. I'm especially interested in developer tools, personal intelligence, and AI-native product experiences.
 
-🌐 [Website](http://www.arpitsidana.com) · 𝕏 [X](https://x.com/arpit_sidana) · 💼 [LinkedIn](https://www.linkedin.com/in/arpitsidana/) · 📷 [Instagram](https://www.instagram.com/arpitsidana/)
+🌐 [Website](http://www.arpitsidana.com) · 𝕏 [X](https://x.com/arpit_sidana) · 💼 [LinkedIn](https://www.linkedin.com/in/arpitsidana/)
 
 ---
 
